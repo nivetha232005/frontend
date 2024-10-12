@@ -1,0 +1,37 @@
+.container{
+    color:white;
+    background-color: rgb(22, 19, 19);
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+    border: 10px;
+    border-radius: 15px;
+    border-color: darkgrey;
+}
+.display{
+    display: 100px%;
+    height: 60px;
+    width:280px;
+    
+   
+}
+
+.button{
+    display:100%;
+
+}
+.btn{
+    color: white;
+    background-color: black;
+    height:50px;
+    width: 50px;
+    margin: 10px;
+    border-color:gainsboro;
+    border: 10%;
+    cursor:pointer;
+    font-size:larger;
+    text-align: center;
+}
+.btn:hover{
+background-color: darkgray;
+}
